@@ -1,7 +1,16 @@
 # Unified_Mentor_Project
+
 Project's:
+       
         1. Employee Attrition 
+        
         2. Crop production 
+
+
+Data set:
+You can find the data set in the given link: https://drive.google.com/drive/folders/17_kZ_7c4-HaSzKLJV1sOs5GhOsE4CM7s?usp=sharing
+
+        
 Approach
 The main goal of the project is to find key metrics and factors and then show meaningful relationships between them based on different features available in the dataset.
 
@@ -14,12 +23,19 @@ The main goal of the project is to find key metrics and factors and then show me
 Technologies Used
  
 1.Jupyter notebook
+
 2. Python 
+
 3. Machine Learning 
+
 4. Pandas
+
 5. Numpy
+
 6. Seaborn
+
 7. Matplotlib
+
 8. Power BI 
 
 Detailed Project Report
