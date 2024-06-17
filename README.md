@@ -12,6 +12,7 @@ You can find the data set in the given link: https://drive.google.com/drive/fold
 
         
 Approach
+
 The main goal of the project is to find key metrics and factors and then show meaningful relationships between them based on different features available in the dataset.
 
  * Data Collection      : Imported data from dataset given in the project using Pandas library. 
